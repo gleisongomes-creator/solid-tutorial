@@ -14,3 +14,9 @@ ranking-solid-exercicio10.json
 
 # Configuracoes locais do VS Code
 .vscode/
+
+# Configurações do idea
+*.iml
+
+#Script execução local
+run.sh
